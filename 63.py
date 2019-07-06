@@ -1,1 +1,2 @@
-print(min([int(j) for i in input().split()]))
+l=list(map(int,input().split()[:10]))
+print(min(l))
