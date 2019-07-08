@@ -1,6 +1,6 @@
-input1=int(input())
-while (input1>=0):
+e=int(input())
+while (e>=0):
   if(input1%10==0):
-      print(input1)
+      print(e)
       break
-  input1+=1
+  e+=1
