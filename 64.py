@@ -1,6 +1,6 @@
-h123,k123=map(int,input().split())
-a=h123+k123
-if(a%2==0):
+h120,k120=map(int,input().split())
+e=h120+k120
+if(e%2==0):
  print("even")
 else:
  print("odd")
