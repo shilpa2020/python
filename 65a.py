@@ -1,2 +1,2 @@
-strg1=input()
-print(strg1)
+strg12=input()
+print(strg12)
