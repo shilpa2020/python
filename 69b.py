@@ -1,6 +1,6 @@
-s,x=map(int,input().split())
-sub=s-x
-if(sub%2==0):
+l,y=map(int,input().split())
+s=l-y
+if(s%2==0):
   print('even')
 else:
   print('odd')
